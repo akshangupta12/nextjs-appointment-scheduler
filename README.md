@@ -18,10 +18,9 @@ A modern appointment booking system built with **React** and **Next.js** that al
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Next.js  
-- **Styling:** Tailwind CSS / CSS Modules / your choice  
+- **Styling:** Tailwind CSS 
 - **Backend:** Next.js API Routes  
-- **Email Service:** Nodemailer / SendGrid / etc.  
-- **Database:** MongoDB / PostgreSQL / etc. (if used)  
+- **Email Service:** Nodemailer / SendGrid / (TBD). 
 
 ---
 
